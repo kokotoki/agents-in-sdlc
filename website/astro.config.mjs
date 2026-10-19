@@ -837,56 +837,88 @@ export default defineConfig({
             {
               label: 'GitHub Copilot cloud agent',
               translations: {
+                'es-ES': 'Agente en la nube de GitHub Copilot',
+                'ja-JP': 'GitHub Copilot クラウド エージェント',
                 'ko-KR': 'GitHub Copilot 클라우드 에이전트',
+                'pt-BR': 'Agente na nuvem do GitHub Copilot',
+                'zh-CN': 'GitHub Copilot 云代理',
               },
               items: [
                 {
                   label: 'Overview',
                   link: '/real-world-development/cloud/',
                   translations: {
+                    'es-ES': 'Descripción general',
+                    'ja-JP': '概要',
                     'ko-KR': '개요',
+                    'pt-BR': 'Visão general',
+                    'zh-CN': '概述',
                   },
                 },
                 {
                   label: '0. Prerequisites',
                   link: '/real-world-development/cloud/0-prerequisites/',
                   translations: {
+                    'es-ES': '0. Requisitos previos',
+                    'ja-JP': '0. 前提条件',
                     'ko-KR': '0. 사전 준비',
+                    'pt-BR': '0. Pré-requisitos',
+                    'zh-CN': '0. 先决条件',
                   },
                 },
                 {
                   label: '1. Custom instructions',
                   link: '/real-world-development/cloud/1-custom-instructions/',
                   translations: {
+                    'es-ES': '1. Instrucciones personalizadas',
+                    'ja-JP': '1. カスタム指示',
                     'ko-KR': '1. 사용자 지정 지침',
+                    'pt-BR': '1. Instruções personalizadas',
+                    'zh-CN': '1. 自定义指令',
                   },
                 },
                 {
                   label: '2. Cloud agent',
                   link: '/real-world-development/cloud/2-cloud-agent/',
                   translations: {
+                    'es-ES': '2. Agente en la nube',
+                    'ja-JP': '2. クラウド エージェント',
                     'ko-KR': '2. GitHub Copilot cloud agent',
+                    'pt-BR': '2. Agente na nuvem',
+                    'zh-CN': '2. 云代理',
                   },
                 },
                 {
                   label: '3. Custom agents',
                   link: '/real-world-development/cloud/3-custom-agents/',
                   translations: {
+                    'es-ES': '3. Agentes personalizados',
+                    'ja-JP': '3. カスタム エージェント',
                     'ko-KR': '3. 사용자 지정 에이전트',
+                    'pt-BR': '3. Agentes personalizados',
+                    'zh-CN': '3. 自定义代理',
                   },
                 },
                 {
                   label: '4. Managing agents',
                   link: '/real-world-development/cloud/4-managing-agents/',
                   translations: {
+                    'es-ES': '4. Gestión de agentes',
+                    'ja-JP': '4. エージェントの管理',
                     'ko-KR': '4. 에이전트 모니터링 및 관리',
+                    'pt-BR': '4. Gerenciamento de agentes',
+                    'zh-CN': '4. 管理代理',
                   },
                 },
                 {
                   label: '5. Iterating',
                   link: '/real-world-development/cloud/5-iterating/',
                   translations: {
+                    'es-ES': '5. Iteración',
+                    'ja-JP': '5. 反復',
                     'ko-KR': '5. Copilot 작업 반복 개선',
+                    'pt-BR': '5. Iteração',
+                    'zh-CN': '5. 迭代',
                   },
                 },
               ],
